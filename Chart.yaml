@@ -1,0 +1,17 @@
+apiVersion: v2
+appVersion: 2.0.0
+description: A GitHub App built with [Probot](https://github.com/probot/probot) to
+  manage policy-as-code and apply repository settings to repositories across an organization.
+home: https://github.com/github/safe-settings
+icon: https://wile.example.com/anvil.svg
+keywords:
+- github
+- policy
+maintainers:
+- email: decyjphr@github.com
+  name: Yadhav Jayaraman
+name: safe-settings
+sources:
+- https://github.com/github/safe-settings
+type: application
+version: 0.1.0
